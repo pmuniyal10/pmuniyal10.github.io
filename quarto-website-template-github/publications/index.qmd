@@ -1,0 +1,34 @@
+---
+title: "Publications"
+---
+
+My research has contributed to advancing our understanding of cardiovascular physiology, with a focus on hypertrophic cardiomyopathy and therapeutic interventions. Below are some of the key publications I have contributed to:
+
+### Featured Publications 
+
+**Dominic KL, Choi J, Holmes JB, Singh M, Majcher MJ, Stelzer JE. The contribution of N-terminal truncated cMyBPC to in vivo cardiac function. J Gen Physiol. 2023;155(6):e202213318. doi:10.1085/jgp.202213318** 
+
+- This paper explores how truncated cardiac myosin-binding protein C (cMyBPC) impacts contractile function, providing insights into the molecular mechanisms of hypertrophic cardiomyopathy.
+
+**Dominic KL, Holmes JB, Singh M, Majcher MJ, Stelzer JE. AAV9 gene transfer of N-terminal truncated cMyBPC ameliorates cardiac function in CMYBPC-deficient mice. Biophysical Journal. 2023;122(3). doi:10.1016/j.bpj.2022.11.1066** 
+
+- This study demonstrates the potential of gene therapy using AAV9 vectors to restore cardiac function in murine models of cMyBPC deficiency. 
+
+## Ongoing Work 
+In addition to my published work, I am actively involved in collaborative projects that explore: 
+
+- Innovative biomarkers for cardiovascular diseases. 
+
+- Preclinical models for testing novel heart failure therapies.
+
+- Translational approaches to bridge basic science and clinical applications. 
+
+Stay tuned for updates on my latest research contributions.
+
+----
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

@@ -1,0 +1,33 @@
+---
+title: "Education and Research"
+---
+
+I have always been driven by curiosity and a passion for discovery. My journey in cardiovascular research and education reflects a commitment to advancing science and making a meaningful impact in medicine.
+
+## Education
+My academic path has provided me with the foundation to bridge the gap between biotechnology and patient-centered healthcare.
+
+**Bachelor of Science in Biotechnology**  
+*Kent State University*  
+Equipped with expertise in molecular biology, genetics, and research methodologies.
+
+**Master’s in Clinical Epidemiology**  
+*Kent State University (Class of 2026)*  
+Pursuing advanced training to combine my research background with Epidemiology.
+
+## Research
+
+Through my work as a research assistant at **Case Western Reserve University**, I explored the molecular underpinnings of cardiovascular disease, with a particular focus on hypertrophic cardiomyopathy. Using advanced techniques like echocardiography, telemetry, and histology, I contributed to uncovering how N-terminal truncated cardiac myosin-binding protein C (cMyBPC) affects heart function.
+
+### Key Contributions:
+- Conducted preclinical studies to explore therapeutic approaches for cardiac dysfunction.
+- Advanced gene delivery techniques, including AAV9-mediated therapy, to restore cardiac function.
+- Investigated hypertrophic cardiomyopathy using murine models, uncovering insights that bridge molecular research and clinical applications.
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

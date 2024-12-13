@@ -1,0 +1,33 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/Mandeep Singh.png"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/mandeep_singh1509
+    - icon: github
+      text: Github
+      href: https://github.com/pmuniyal10
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mandeep-singh-6b077215a/
+    - icon: envelope
+      text: Email
+      href: "mailto:mxs1790@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am Mandeep Singh, a passionate researcher and lifelong learner currently working in the field of cardiovascular physiology. With a background in biotechnology and a commitment to advancing medicine, I strive to contribute to meaningful research that helps improve lives and promotes better health. My work focuses on understanding the intricate mechanisms of the cardiovascular system, with the goal of translating insights into practical solutions for patients and healthcare. I enjoy exploring innovative methods to tackle complex problems, fostering collaboration, and mentoring others to ignite a shared passion for science. On this website, you’ll find information about my research, projects, and publications, as well as resources for those interested in science, medicine, and innovation. I believe in making science accessible and engaging, and I’m excited to share my journey with you. Feel free to explore the site, connect with me, and learn more about my work. If you’d like to collaborate or just have a conversation, don’t hesitate to [reach out](mailto:mxs1790@case.edu).
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
